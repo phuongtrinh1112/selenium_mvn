@@ -1,1 +1,1 @@
-# selenium_mvn
+Learn selenium with me, build up knowledge day by day
