@@ -1,0 +1,9 @@
+tests\TestGuruLogin.class
+tests\TestW3sPage.class
+pages\GuruNewCustomer.class
+pages\GuruCommon.class
+pages\W3schoolCommon.class
+pages\GuruHomePageAfterLogin.class
+pages\GuruPageUserCreated.class
+tests\TestGuruCreateNewUser.class
+pages\GuruLogin.class
